@@ -1,13 +1,22 @@
 <!--
-title: Broadcom brcm Supplemental Firmware
-description: Board specific brcm firmware not found in linux-firmware repo
+title: Broadcom brcm Supplemental Firmware & NVRAM
+description: Board specific brcm firmware & NVRAM not found in linux-firmware repo
 layout: Doc
 -->
-# Broadcom brcm Supplemental Firmware
+# Broadcom brcm Supplemental Firmware & NVRAM
 
-This repository contains board specific firmware for Broadcom brcm devices. The firmware has been renamed to be board specific which aligns with how OpenBSD's bwfm driver loads them.
+This repository contains board specific firmware & NVRAM for Broadcom brcm devices. File names have been renamed to be board specific which aligns with how OpenBSD's bwfm driver loads them.
 
 ## Boards
+
+### CuBox-i
+<pre><code>
+  Source Location:
+    https://github.com/SolidRun/deb-pkg_cuboxi-firmware-wireless
+
+  Renamed to be board specific:
+    brcmfmac4330-sdio.solidrun,cubox-i.txt
+</code></pre>
 
 ### Pinebook Pro
 <pre><code>
