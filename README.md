@@ -12,9 +12,9 @@ This repository contains board specific firmware & NVRAM for Broadcom brcm devic
 ### CuBox-i
 <pre><code>
   Source Location:
-    https://github.com/SolidRun/deb-pkg_cuboxi-firmware-wireless
+    https://github.com/Freescale/meta-freescale-3rdparty/tree/master/recipes-bsp/broadcom-nvram-config/files/cubox-i
 
-  Renamed to be board specific:
+  Renamed to be board specific and set ccode=X2:
     brcmfmac4330-sdio.solidrun,cubox-i.txt
 </code></pre>
 
