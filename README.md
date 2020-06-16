@@ -32,6 +32,6 @@ This repository contains board specific firmware & NVRAM for Broadcom brcm devic
   Source Location:
     https://people.linaro.org/~manivannan.sadhasivam/rock960_wifi/
 
-  Renamed to be board specific:
+  Renamed to be board specific and set ccode=X2:
     brcmfmac4356-sdio.vamrs,rock960.bin
     brcmfmac4356-sdio.vamrs,rock960.txt
