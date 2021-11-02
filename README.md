@@ -28,6 +28,17 @@ This repository contains board specific firmware & NVRAM for Broadcom brcm devic
     brcmfmac43456-sdio.pine64,pinebook-pro.txt
 </code></pre>
 
+### Raspberry Pi 400
+<pre><code>
+  Source Location:
+    https://github.com/RPi-Distro/firmware-nonfree/tree/master/brcm
+
+  Renamed to be board specific:
+    brcmfmac43456-sdio.raspberrypi,400.bin
+    brcmfmac43456-sdio.raspberrypi,400.clm_blob
+    brcmfmac43456-sdio.raspberrypi,400.txt
+</code></pre>
+
 ### Raspberry Pi Zero 2 W
 <pre><code>
   Source Location:
