@@ -27,6 +27,17 @@ This repository contains board specific firmware & NVRAM for Broadcom brcm devic
     brcmfmac43456-sdio.pine64,pinebook-pro.bin
     brcmfmac43456-sdio.pine64,pinebook-pro.txt
 </code></pre>
+
+### Raspberry Pi Zero 2 W
+<pre><code>
+  Source Location:
+    https://github.com/RPi-Distro/firmware-nonfree/tree/master/brcm
+
+  Renamed to be board specific and set ccode=X2:
+    brcmfmac43436-sdio.raspberrypi,model-zero-2-w.bin
+    brcmfmac43436-sdio.raspberrypi,model-zero-2-w.clm_blob
+    brcmfmac43436-sdio.raspberrypi,model-zero-2-w.txt
+
 ### Rock960
 <pre><code>
   Source Location:
