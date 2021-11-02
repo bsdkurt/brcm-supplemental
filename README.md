@@ -37,6 +37,7 @@ This repository contains board specific firmware & NVRAM for Broadcom brcm devic
     brcmfmac43436-sdio.raspberrypi,model-zero-2-w.bin
     brcmfmac43436-sdio.raspberrypi,model-zero-2-w.clm_blob
     brcmfmac43436-sdio.raspberrypi,model-zero-2-w.txt
+</code></pre>
 
 ### Rock960
 <pre><code>
@@ -46,3 +47,4 @@ This repository contains board specific firmware & NVRAM for Broadcom brcm devic
   Renamed to be board specific and set ccode=X2:
     brcmfmac4356-sdio.vamrs,rock960.bin
     brcmfmac4356-sdio.vamrs,rock960.txt
+</code></pre>
